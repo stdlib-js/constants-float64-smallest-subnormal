@@ -33,7 +33,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@esm/index.mjs';
+import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@v0.0.8-esm/index.mjs';
 ```
 
 ##### FLOAT64_SMALLEST_SUBNORMAL
@@ -67,7 +67,7 @@ var bool = ( FLOAT64_SMALLEST_SUBNORMAL === 4.940656458412465e-324 );
 <body>
 <script type="module">
 
-import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@esm/index.mjs';
+import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@v0.0.8-esm/index.mjs';
 
 console.log( FLOAT64_SMALLEST_SUBNORMAL );
 // => ~4.94e-324
