@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@deno/mod.js';
+import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@v0.1.1-deno/mod.js';
 ```
 
 ##### FLOAT64_SMALLEST_SUBNORMAL
@@ -73,7 +73,7 @@ var bool = ( FLOAT64_SMALLEST_SUBNORMAL === 4.940656458412465e-324 );
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@deno/mod.js';
+import FLOAT64_SMALLEST_SUBNORMAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-smallest-subnormal@v0.1.1-deno/mod.js';
 
 console.log( FLOAT64_SMALLEST_SUBNORMAL );
 // => ~4.94e-324
