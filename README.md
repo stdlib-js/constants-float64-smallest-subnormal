@@ -65,7 +65,7 @@ To view installation and usage instructions specific to each branch build, be su
 var FLOAT64_SMALLEST_SUBNORMAL = require( '@stdlib/constants-float64-smallest-subnormal' );
 ```
 
-##### FLOAT64_SMALLEST_SUBNORMAL
+#### FLOAT64_SMALLEST_SUBNORMAL
 
 Smallest positive **denormalized** [double-precision floating-point number][ieee754].
 
